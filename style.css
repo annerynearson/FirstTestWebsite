@@ -1,0 +1,20 @@
+body {
+		color: #555; 
+		font-family: georgia, Helvetica,  "MS Trebuchet", sans-serif;
+		margin: 0;
+		}
+
+		h1, h2, h3 {font-weight:normal;
+					margin:0px;}
+
+		#masthead {
+			background-color: #E05C50;
+			border:10px solid #FF8955;
+			border-width:1px 2px 3px 4px;
+			}
+
+			/* this is a comment on what's going on in this code */
+
+		#masthead h1 {color: #F6E39F;}
+
+		.box {padding: 10px;}
